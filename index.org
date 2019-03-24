@@ -1,0 +1,59 @@
+#+SETUPFILE: org-theme/setup/short.setup
+#+OPTION: nums:nil
+#+AUTHOR: Manoel Vilela, Brizamar Caxias, Bryan Santos
+#+DATE: <2018-02-10 Sat>
+#+TITLE: Princípios de Engenharia da Computação
+#+LANGUAGE: brazilian
+#+LATEX_HEADER: \usepackage[]{babel}
+#+OPTIONS: toc:nil
+
+#+BEGIN_ABSTRACT
+Olá! Está é a página principal do grupo Princípios da Engenharia da
+Computação (PEC). Fundado em 2018, o grupo defende o estudo e desenvolvimentos
+de projetos nas áreas de:
+
++ Arquitetura e Organização de Computadores
++ Sistemas Embarcados
++ Circuítos Elétricos
++ Eletrônica Digital
++ Processamento Digital de Sinais
++ Sistemas Operacionais
++ Estrutura de Dados
++ Programação Computacional
++ Redes de Computadores
+
+Ou seja, os principais pontos onde encontra o ponto mais belo da
+computação: o cruzamento entre hardware e software!
+
+Os idealizadores do grupo foram os seguintes alunos de Engenharia da Computação
+do Campus de Sobral da Universidade Federal do Ceará:
+
++ Bryan Santos
++ Brizamar Caxias
++ Manoel Vilela
+#+END_ABSTRACT
+#+TOC: headlines=2
+
+
+* Objetivos Gerais
+
++ Dar ênfase na importância sobre passagem de conhecimento
++ Desenvolvimento de projetos Open Source
++ Engajar de forma prática através dos conhecimentos teóricos
+  adquiridos no curso
++ Incentivar os alunos a permanência no curso de Engenharia da
+  Computação
++ Ajudar a comunidade acadêmica criar um espírito de determinação e
+  proatividade
++ Aumentar a comunicação entre diferentes áreas do curso (Telecom vs
+  Automação vs Computação)
+
+* Projetos dos membros do PEC
+
++ [[https://logic.lerax.me/][Sistema para geração de tabela verdade escrito em Common Lisp (2017.1)]]
++ [[https://github.com/ryukinix/data-structures-ufc/][Biblioteca para Estrutura de Dados em C (2017.2)]]
++ [[https://github.com/ryukinix/audio-effects-matlab][Efeitos de Guitarra utilizando técnicas de Processamento Digital de
+  Sinais (2017.2)]]
++ [[https://github.com/ryukinix/mir][Controle Remoto para PC usando Arduino + Python (2018.1)]]
++ [[https://github.com/ryukinix/python-chat][Sistema de Chat Conferência escrito em Python (2018.2)]]
++ [[https://github.com/ryukinix/pic-tetris][Tetris implementado em PIC (2018.2)]]
